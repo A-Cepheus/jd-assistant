@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://github.com/huaisha1224/jd-assistant)
 
-京东抢购助手源代码再次Fork自[huaisha1224](https://github.com/huaisha1224/jd-assistant)
+抢购助手源代码再次Fork自[huaisha1224](https://github.com/huaisha1224/jd-assistant)
 -自己做一些适配性的小修改；
 
 ## 主要功能
